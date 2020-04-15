@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Yasas Karunarathna
 description: Thoughts of a Techlead
+github:
+  is_project_page: false
